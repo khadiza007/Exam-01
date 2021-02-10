@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    height: 700px;
+}
+
+.frist-section{
+    background-image: url('image/header-bg.png');
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+
+h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#name{
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(223, 27, 27);
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 8%;
+    padding-left:8%;
+}
+
+p{
+
+    font-size:16px;
+    font-weight:500; 
+}
+
+.heire-me-button{
+    text-decoration: none;
+    background: linear-gradient( 45deg, lightcoral,tomato );
+    text-transform: uppercase;
+    color: white;
+    padding: 15px 40px;
+    border-radius: 5px;
+}
+
+div img{
+    width: 40%;  
+}
+.half-width-2{
+    width: 30%;
+    float: right;
+    margin-right: 8%;
+    margin-top: -35%;
+}
+
+.BIOGRAPHY{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(233, 22, 22);
+}
+
+.download-button{
+    text-decoration: none;
+    background: linear-gradient( 45deg, lightcoral,tomato );
+    text-transform: uppercase;
+    color: white;
+    padding: 15px 40px;
+    border-radius: 5px;
+}
+.second-section{
+    background-image: url('image/biography-bg.png');
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 10%;
+}
+
+.third-section{
+    background-image: url('image/latest-work-bg.png');
+    background-repeat: no-repeat;
+    background-size:100%;
+    margin-top: 10%;
+}
+
+.forth-section{
+    background-image: url('image/footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+.center-img{
+    display: flex;
+    width: 70%;
+    margin-top: 7%;
+    margin-left: 8%;
+}
+
+#text{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+    margin-bottom: 5%;
+}
+
+#disigne-devoloper{
+    font-size: 27px;
+    color: tomato;
+    font-weight: 100%;
+}
+
+#text-2{
+    text-align: center;
+    font-size: 25px;
+    width: 47%;
+    margin-left: 27%;
+    margin-top: 5%;
+}
+
+#my{
+    text-align: center;
+}
+
+#messge{
+    box-shadow: center;
+    background: #e02828;
+    border-radius: 30px;
+    color: lightyellow;
+    padding: 20px;
+    height: 150px;
+   text-align: center;
+   margin: 0,auto;
+  
+}
+
+footer p{
+    text-align: center;
+    text-decoration: none;
+    color: #669966;
+    font-weight: 600;
+    margin: 0 auto;
+}
